@@ -1,0 +1,13 @@
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\bin\Release\netcoreapp3.1\GeradorPreVenda.exe
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\bin\Release\netcoreapp3.1\GeradorPreVenda.deps.json
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\bin\Release\netcoreapp3.1\GeradorPreVenda.runtimeconfig.json
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\bin\Release\netcoreapp3.1\GeradorPreVenda.runtimeconfig.dev.json
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\bin\Release\netcoreapp3.1\GeradorPreVenda.dll
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\bin\Release\netcoreapp3.1\GeradorPreVenda.pdb
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.csproj.AssemblyReference.cache
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.AssemblyInfoInputs.cache
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.AssemblyInfo.cs
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.csproj.CoreCompileInputs.cache
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.dll
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.pdb
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.genruntimeconfig.cache
