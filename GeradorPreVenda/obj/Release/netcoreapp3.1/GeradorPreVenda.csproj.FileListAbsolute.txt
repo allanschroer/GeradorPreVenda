@@ -10,3 +10,4 @@ C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release
 C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.dll
 C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.pdb
 C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.genruntimeconfig.cache
+C:\Users\allan\Google Drive\Aulas c#\GeradorPreVenda\GeradorPreVenda\obj\Release\netcoreapp3.1\GeradorPreVenda.csprojAssemblyReference.cache

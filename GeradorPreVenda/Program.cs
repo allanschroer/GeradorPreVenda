@@ -35,11 +35,14 @@ namespace GeradorPreVenda
                         gravar varias = new gravar();
                         Console.Write("Quantas Pre-vendas deseja gerar? -> ");
                         int quantiade = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Processando, aguarde!");
+
                         for (int i = 0; i <= quantiade; i++)
                         {
                             string prevendas = "HAV" + ranNumVarias.Next(100000, 999999) + "-" + ranNumVarias.Next(10, 99);
                             varias.GravarVariasPreVendas(prevendas);
                         }
+                        Console.Write("Finalizado, aperte ENTER para continuar \n==>");
                         Console.ReadLine();
                         break;
 
